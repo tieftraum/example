@@ -8661,11 +8661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.API\\Example.API.csproj",
+      "projectUniqueName": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.API\\Example.API.csproj",
       "projectName": "Example.API",
-      "projectPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.API\\Example.API.csproj",
+      "projectPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.API\\Example.API.csproj",
       "packagesPath": "C:\\Users\\Nodar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.API\\obj\\",
+      "outputPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8685,11 +8685,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\Example.Domain.csproj": {
-              "projectPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\Example.Domain.csproj"
+            "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\Example.Domain.csproj": {
+              "projectPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\Example.Domain.csproj"
             },
-            "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Infrastructure\\Example.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Infrastructure\\Example.Infrastructure.csproj"
+            "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Infrastructure\\Example.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Infrastructure\\Example.Infrastructure.csproj"
             }
           }
         }

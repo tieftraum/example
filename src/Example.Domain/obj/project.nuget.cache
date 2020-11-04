@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L0d2Ma1v+4S0E9wlGhl0xUa0KfaMQsQssoXUTOGBK/xbbpSf82yEEclD+TL8TtDneQ/A8Cah8ENVi6VitV2qeg==",
+  "dgSpecHash": "LC8/RxSXJ7+c4P9mCHkN/Sku3WKkjMU09cT+f8/Y5A7K3PCpYB17s1p3IBOAGYTV1QaE0IVbY5VVSmMP4PCrwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\Example.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\Example.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nodar\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Nodar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

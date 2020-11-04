@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Infrastructure\\Example.Infrastructure.csproj": {}
+    "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Infrastructure\\Example.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\Example.Domain.csproj": {
+    "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\Example.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\Example.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\Example.Domain.csproj",
         "projectName": "Example.Domain",
-        "projectPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\Example.Domain.csproj",
+        "projectPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\Example.Domain.csproj",
         "packagesPath": "C:\\Users\\Nodar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Infrastructure\\Example.Infrastructure.csproj": {
+    "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Infrastructure\\Example.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Infrastructure\\Example.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Infrastructure\\Example.Infrastructure.csproj",
         "projectName": "Example.Infrastructure",
-        "projectPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Infrastructure\\Example.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Infrastructure\\Example.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Nodar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -105,8 +105,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\Example.Domain.csproj": {
-                "projectPath": "C:\\Users\\Nodar\\Desktop\\ExampleProject-2\\src\\Example.Domain\\Example.Domain.csproj"
+              "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\Example.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nodar\\Source\\Repos\\example\\src\\Example.Domain\\Example.Domain.csproj"
               }
             }
           }
