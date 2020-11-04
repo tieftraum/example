@@ -1,0 +1,43 @@
+post
+http://localhost:5000/api/auth/register
+{
+	"username": "testusername1",
+	"password": "test1",
+	"firstName": "testFirstname1",
+	"lastName": "testLastName1"
+}
+
+post
+http://localhost:5000/api/auth/login
+{
+	"username": "testusername1",
+	"password": "test1",
+}
+
+post to add
+get to get
+
+http://localhost:5000/api/testusername1/contacts
+{
+	"firstName": "testusername1",
+	"lastName": "test1"
+}
+
+Get
+Delete
+http://localhost:5000/api/testusername1/contacts/1
+{
+	"firstName": "testusername1",
+	"lastName": "test1"
+}
+
+Post
+http://localhost:5000/api/testUsername/PhoneNumbers
+
+{
+	"Phone": "+9999999",
+	"ContactId": 15
+}
+
+DELETE
+http://localhost:5000/api/testUsername/PhoneNumbers/1
